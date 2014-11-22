@@ -1,4 +1,4 @@
-## The Below functions demonstrate the principle of caching via lexical closure.
+## The below functions demonstrate the principle of caching via lexical closure.
 ## This can speed up program execution by avoiding recomputing values.
 ## The functions below are modifications of the examples given for caching the
 ## mean of a vector.
